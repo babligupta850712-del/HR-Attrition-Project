@@ -30,3 +30,9 @@ This project analyzes employee attrition using data analytics and visualization 
 ## Author
 
 BABLI GUPTA
+
+## 📊 Dashboard Preview
+
+![Dashboard Page 1](DESHBOARD_PAGE_1.png)
+![Dashboard Page 2](DESHBOARD_PAGE_2.png)
+![Dashboard Page 3](DESHBOARD_PAGE_3.png)
